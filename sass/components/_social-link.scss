@@ -3,3 +3,11 @@
     justify-content: center;
     margin-top: 16px;
   }
+
+.social-link-list {
+  &:not(:last-child){
+    margin-right: 10px;
+  }
+}
+  
+  
